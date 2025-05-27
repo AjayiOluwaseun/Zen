@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Profile</title>
+  </head>
+  <body>
+    <h1>AJAYI, OLUWASEUN</h1>
+    <p>ALT School ID: ALT/SOE/025/0362</p>
+    <hr />
+
+    <h2>Biography</h2>
+    <p>
+      I am a mechanical engineer with little to no experience about the tech
+      space.
+    </p>
+    <hr />
+
+    <h2>Why I Joined AltSchool</h2>
+    <p>
+      I joined AltSchool because i'm naturally an inquisitive person. Curiosity
+      usually gets the better part of me and i'll love to also challenge myself
+      as a lifelong learner that i am.
+    </p>
+    <hr />
+
+    <h2>Goals for the School of Engineering Program</h2>
+    <ul>
+      <li>Deepen my knowledge base going forward.</li>
+      <li>
+        Challenge myself to follow through with the program (Work can be
+        draining atimes).
+      </li>
+      <li>Have handy skills incase a pivot is necessary in my career.</li>
+    </ul>
+    <hr />
+    <a href="#Top">Jump to Top</a>
+  </body>
+</html>
